@@ -1,0 +1,14 @@
+{
+  "name": "Apoorv",
+  "age": 26,
+  "phones": [
+    {
+      "ptype": "mobile",
+      "number": "7259211363"
+    },
+    {
+      "ptype": "personal",
+      "number": "9678554678"
+    }
+  ]
+}
